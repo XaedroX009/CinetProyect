@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Prosto+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Gudea&display=swap");
+
+a {
+  color: black !important;
+}
+
+.navbar-bttns {
+  font-family: "Gudea", sans-serif;
+}
+
+.login-card {
+  font-family: "Gudea", sans-serif;
+  padding: 20px;
+  text-align: center;
+  max-width: 450px;
+  margin: center;
+}
+
+.register-card {
+  font-family: "Gudea", sans-serif;
+  padding: 20px;
+  text-align: center;
+  max-width: 700px;
+  margin: 60px auto;
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.item {
+  width: 30%;
+  margin: 10px;
+}
+
+.page {
+  max-width: 800px;
+  margin: 60px auto;
+}
